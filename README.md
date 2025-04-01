@@ -1,5 +1,7 @@
 # Actor Favorites App
 
+Video Link: https://asset.cloudinary.com/dxgsrugvo/bf4c385dceb9a5dbcaf1f9a95744408c
+
 A React application that allows you to browse actors and actresses, view their details, and save your favorites. Built with React, Material-UI, and the TMDB API.
 
 ## Features
